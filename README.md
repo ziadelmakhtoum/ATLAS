@@ -1,4 +1,3 @@
-ATLAS
 ATLAS est une plateforme intelligente de recherche et d'exploration de voyages.
 
 Le projet vise à aider les voyageurs à :
